@@ -1,0 +1,3 @@
+[submodule "trial1/vendor/plugins/goldberg"]
+	path = trial1/vendor/plugins/goldberg
+	url = git://github.com/lardawge/goldberg.git
